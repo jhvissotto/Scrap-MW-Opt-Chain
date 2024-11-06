@@ -2,7 +2,6 @@ jupyter
 nbconvert
 
 requests
-datetime
 numpy
 pandas
 yfinance
