@@ -1,13 +1,8 @@
 jupyter
 nbconvert
 
-sys
-warnings
-typing
 requests
 datetime
-itertools
 numpy
 pandas
 yfinance
-sqlite3
