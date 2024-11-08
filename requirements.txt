@@ -1,6 +1,7 @@
 jupyter
 nbconvert
 
+holidays
 requests
 numpy
 pandas
